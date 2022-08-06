@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Profiterol",
+      "description": "profiterol açıklaması",
+      "price": 144
+    },
+    {
+      "id": 2,
+      "name": "Ekler ",
+      "description": "Güzel tat",
+      "price": 154
+    },
+    {
+      "id": 3,
+      "name": "silineceksin",
+      "description": "silinecek ürün",
+      "price": 3131
+    }
+  ],
+  "profile": [
+    {
+      "eMail": "enes_aydogdu2001@hotmail.com",
+      "phoneNumber": "05436234972",
+      "password": "enes4116"
+    }
+  ]
+}
